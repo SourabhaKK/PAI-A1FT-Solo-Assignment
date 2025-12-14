@@ -364,5 +364,3 @@ This project is submitted as academic coursework and is subject to university ac
 **© 2025 Sourabha K Kallapur. All Rights Reserved.**
 
 ---
-
-**⭐ If you're a recruiter or potential employer viewing this repository, feel free to reach out!**
