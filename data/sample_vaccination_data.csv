@@ -1,0 +1,41 @@
+country_name,region,population,date,vaccine_type,doses_administered,percentage_vaccinated
+United Kingdom,Europe,67000000,2024-01-15,Pfizer,50000000,74.6
+United States,Americas,331000000,15-01-2024,Moderna,200 million,60.4
+France,Europe,,2024-01-15,Pfizer,45000000,67.2
+Germany,Europe,83000000,2024/01/15,BioNTech,55000000,66.3
+Italy,Europe,60000000,2024-01-15,AstraZeneca,40000000,
+Spain,Europe,47000000,01/15/2024,Pfizer,32000000,68.1
+Canada,Americas,38000000,2024-01-15,Moderna,25 million,65.8
+Australia,Oceania,26000000,2024-01-15,Pfizer,18000000,69.2
+Japan,Asia,125000000,2024-01-15,,80000000,64.0
+India,Asia,1400000000,2024-01-15,Covaxin,900000000,64.3
+United Kingdom,Europe,67000000,2024-02-15,Pfizer,52000000,77.6
+United States,Americas,331000000,2024-02-15,Moderna,210000000,63.4
+France,Europe,67000000,15-02-2024,Pfizer,47 million,70.1
+Germany,Europe,83000000,2024-02-15,BioNTech,58000000,69.9
+Italy,Europe,60000000,2024-02-15,AstraZeneca,42000000,70.0
+Spain,Europe,,2024-02-15,Pfizer,35000000,74.5
+Canada,Americas,38000000,2024-02-15,Moderna,28000000,73.7
+Australia,Oceania,26000000,15/02/2024,Pfizer,20000000,76.9
+Japan,Asia,125000000,2024-02-15,Moderna,85000000,68.0
+India,Asia,1400000000,2024-02-15,Covaxin,950 million,67.9
+Brazil,Americas,214000000,2024-01-15,CoronaVac,120000000,56.1
+Brazil,Americas,214000000,2024-01-15,CoronaVac,120000000,56.1
+South Africa,Africa,60000000,2024-01-15,Johnson & Johnson,25000000,41.7
+South Korea,Asia,52000000,01-15-2024,Pfizer,40000000,76.9
+Mexico,Americas,130000000,2024-01-15,AstraZeneca,70 million,53.8
+Russia,Europe,144000000,2024-01-15,Sputnik V,80000000,55.6
+Indonesia,Asia,,2024-01-15,Sinovac,150000000,54.9
+Nigeria,Africa,220000000,2024-01-15,AstraZeneca,45000000,20.5
+Egypt,Africa,105000000,15-01-2024,Sinopharm,50 million,47.6
+Turkey,Europe,85000000,2024-01-15,CoronaVac,60000000,70.6
+Argentina,Americas,46000000,2024/01/15,Sputnik V,35000000,76.1
+Poland,Europe,38000000,2024-01-15,Pfizer,28000000,73.7
+Thailand,Asia,70000000,2024-01-15,Sinovac,45 million,64.3
+Vietnam,Asia,98000000,01/15/2024,AstraZeneca,55000000,56.1
+Philippines,Asia,112000000,2024-01-15,,60000000,53.6
+Colombia,Americas,51000000,2024-01-15,Pfizer,38000000,74.5
+Kenya,Africa,55000000,2024-01-15,AstraZeneca,12 million,21.8
+Malaysia,Asia,33000000,15-01-2024,Pfizer,25000000,75.8
+Chile,Americas,19000000,2024-01-15,Sinovac,16000000,84.2
+Peru,Americas,33000000,2024-01-15,Pfizer,24 million,72.7
